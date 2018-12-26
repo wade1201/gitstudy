@@ -4,3 +4,4 @@ hello git
 hello java
 hello php
 hello clojure
+hello ruby
