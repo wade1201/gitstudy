@@ -1,6 +1,0 @@
-hello
-world
-hello git
-hello java
-hello php
-hello C#
